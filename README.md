@@ -1,4 +1,4 @@
-# SPSGP-523468-AI-based-localization-and-classification-of-skin-disease-with-erythema
+# AI based localization and classification of skin disease with erythema
 AI-Based Localization And Classification Of Skin Disease With Erythema
 
 DataSet Link: https://drive.google.com/file/d/13l3e3gvfpxm26JE20-C_OEE4500dqUc3/view?usp=sharing
